@@ -9,7 +9,7 @@ const Home = () => {
           {/* Left Side - Text */}
           <div className="flex-1 flex flex-col justify-center space-y-6 pr-8">
             <h1 className="text-xl font-bold text-gray-900 sm:text-3xl gap-4 lg:text-5xl md:text-4xl animate-slide-up">
-              <span className="block ">I'm Farose Khan,&#128512; </span>
+              <span className="block ">I'm Farose Khan k,&#128512; </span>
               <span className="block"><span className='font-serif font-red'>Mernstack</span> Developer,</span>
               <span className="block">From India  &#x1F389;</span>
             </h1>
