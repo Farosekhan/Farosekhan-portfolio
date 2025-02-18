@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 @keyframes borderAnimation {
     0% {
       border: 10px solid #6a11cb; /* Purple */
