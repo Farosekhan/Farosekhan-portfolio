@@ -27,7 +27,7 @@ const AboutMe = () => {
           {/* Right Side - Text */}
           <div className="space-y-6">
             <h2 className="text-2xl font-extrabold font-[Playfair+Display] text-transparent bg-clip-text bg-gradient-to-r from-blue-800 via-purple-600 to-pink-500 sm:text-2xl lg:text-5xl my-12 mx-20 flex animate-slide-up">
-              Hi, I'm Farose Khan 👋
+              Hi, I'm Farose Khan k 👋
             </h2>
             <p className="text-lg text-gray-600">
               I'm a passionate <span className="font-semibold text-purple-600">MERN Stack Developer</span> based in India. I specialize in building modern, responsive, and user-friendly web applications. With a strong foundation in JavaScript, React, Node.js, and MongoDB, I love turning ideas into reality through code.
