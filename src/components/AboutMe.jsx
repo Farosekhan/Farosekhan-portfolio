@@ -30,7 +30,7 @@ const AboutMe = () => {
               Hi, I'm Farose Khan k 👋
             </h2>
             <p className="text-lg text-gray-600">
-              I'm a passionate <span className="font-semibold text-purple-600">MERN Stack Developer</span> based in India. I specialize in building modern, responsive, and user-friendly web applications. With a strong foundation in JavaScript, React, Node.js, and MongoDB, I love turning ideas into reality through code.
+              I'm a Passionate <span className="font-semibold text-purple-600">MERN Stack Developer</span> based in India. I specialize in building modern, responsive, and user-friendly web applications. With a strong foundation in JavaScript, React, Node.js, and MongoDB, I love turning ideas into reality through code.
             </p>
             <p className="text-lg text-gray-600">
               When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee ☕.
