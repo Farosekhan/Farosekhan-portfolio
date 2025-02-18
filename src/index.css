@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@keyframes borderAnimation {
+    0% {
+      border: 10px solid #6a11cb; /* Purple */
+    }
+    25% {
+      border: 10px solid #2575fc; /* Blue */
+    }
+    50% {
+      border: 10px solid #2af598; /* Green */
+    }
+    75% {
+      border: 10px solid #fbc531; /* Yellow */
+    }
+    100% {
+      border: 10px solid #6a11cb; /* Purple */
+    }
+  }
+  
+  .animated-border {
+    animation: borderAnimation 3s infinite;
+  }
+
+/* for text */
+@keyframes slideUp {
+    from { 
+      transform: translateY(50px);
+      opacity: 0;
+    }
+    to { 
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .animate-slide-up {
+    animation: slideUp 1s cubic-bezier(1, 0.5, 0.5, 1);
+  }
+  
+
+ 
